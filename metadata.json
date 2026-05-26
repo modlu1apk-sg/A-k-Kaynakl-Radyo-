@@ -1,0 +1,6 @@
+{
+  "name": "Radyo TR",
+  "description": "Türkiye'nin tüm canlı radyo istasyonlarını tek bir yerde toplayan, dinlemesi kolay ve modern tasarımlı radyo uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

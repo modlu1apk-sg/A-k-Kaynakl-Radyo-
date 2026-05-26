@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Audio Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6750A4"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,54 A30,30 0 1,1 84,54 A30,30 0 1,1 24,54" />
+
+    <!-- Headphone Band -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M32,54 C32,35 40,26 54,26 C68,26 76,35 76,54" />
+
+    <!-- Left Cushion -->
+    <path
+        android:fillColor="#6750A4"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M26,48 C26,45 31,45 31,48 L31,60 C31,63 26,63 26,60 Z" />
+
+    <!-- Right Cushion -->
+    <path
+        android:fillColor="#6750A4"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M77,48 C77,45 82,45 82,48 L82,60 C82,63 77,63 77,60 Z" />
+
+    <!-- Radio Waves / EQ Bars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,50h3v8h-3v-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,43h3v19h-3v-19z" />
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M54,37h3v27h-3v-27z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,45h3v15h-3v-15z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,51h3v7h-3v-7z" />
+
+    <!-- Radio Antenna Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54.5,31 A1.5,1.5 0 1,1 54.5,28 A1.5,1.5 0 1,1 54.5,31" />
+</vector>
